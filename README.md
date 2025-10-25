@@ -53,7 +53,7 @@ Compile the project in **Debug** or **Release** mode as usual.
 
 2. Navigate to the build folder:
    ```
-   <project_path>/Debug/Build/OGX2D
+   <project_path>/Debug|Release/Build/OGX2D
    ```
 
 3. Copy the entire **OGX2D** folder to your Xbox:
