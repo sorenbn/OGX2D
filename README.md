@@ -10,7 +10,6 @@ A small **XNA-inspired framework** for making **OG Xbox** games using **RXDK**.
 
 ---
 
-
 ### If you want to play on an emulator
 - [**xemu**](https://xemu.app/) — an open-source OG Xbox emulator
 
@@ -24,7 +23,9 @@ A small **XNA-inspired framework** for making **OG Xbox** games using **RXDK**.
 ## How to Build & Run
 
 ### 1. Build the Solution
-Compile the project in **Debug** or **Release** mode as usual.
+Compile the project in **Debug** or **Release** mode as usual.  
+
+> ⚠️ **Note:** If Visual Studio prompts you to update the target SDK or project files, **just deny it** to avoid breaking the RXDK setup.
 
 ---
 
@@ -63,5 +64,3 @@ Compile the project in **Debug** or **Release** mode as usual.
 
 4. Soft-restart your Xbox.  
    The application will appear in your **Applications** list on the dashboard.
-
----
