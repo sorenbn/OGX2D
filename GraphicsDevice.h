@@ -15,7 +15,6 @@ public:
     void Present();
 
     void DrawQuad(float x, float y, float width, float height, D3DCOLOR color);
-    void DrawTextSimple(const char* text, int x, int y, D3DCOLOR color);
 
     inline LPDIRECT3DDEVICE8 GetDevice() const { return device; }
 
